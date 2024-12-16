@@ -1,0 +1,44 @@
+h1 {
+    color: white;
+    size: 0cap;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+
+.image{
+    width: 70%;
+    position:relative;
+    top: 105px;
+    left: 65px;
+}
+
+.create {
+    color: white;
+    background-color: #DA861E;
+    text-align: center;
+    width: 70%;
+    height: 40px;
+    position: relative;
+    top: 115px;
+    left: 65px;
+    font-size: 150%;
+    border-radius: 10px ;
+}
+
+.login {
+    color: white;
+    background-color: #DA861E;
+    text-align: center;
+    width: 70%;
+    height: 40px;
+    position: relative;
+    top: 122px; 
+    left: 65px;
+    font-size: 150%;
+    border-radius: 10px;
+    border: 0;
+
+}
+

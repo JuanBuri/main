@@ -1,0 +1,93 @@
+.allplogin {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden ;
+}
+
+h1 {
+    color: white;
+    size: 0cap;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+
+.image{
+    width: 70%;
+    position:relative;
+    top: 105px;
+    left: 65px;
+    aspect-ratio: 70%;
+}
+
+#passw {
+    color: white;
+    background-color: #DA861E;
+    border: 0;
+    text-align: center;
+    width: 70%;
+    height: 35px;
+    position: relative;
+    top: 50px;
+    left: 60px;
+    font-size: 150%;
+    border-radius: 10px ;
+}
+
+#user {
+    color: white;
+    background-color: #DA861E;
+    border: 0;
+    text-align: center;
+    width: 70%;
+    height: 35px;
+    position: relative;
+    top: 70px; 
+    left: 60px;
+    font-size: 150%;
+    border-radius: 10px ;
+}
+
+.user {
+    color: white;
+    position: relative;
+    left: 60px;
+    top: 75px;
+}
+
+.pass {
+    color: white;
+    position: relative;
+    left: 60px;
+    top: 65px;
+}
+
+.Continue {
+    color: white;
+    background-color: #0595A2;
+    border: 0;
+    text-align: center;
+    width: 28%;
+    height: 30px;
+    position: absolute;
+    left: 165px;
+    top: 730px;
+    font-size: 105%;
+    border-radius: 10px ;
+}
+
+.recovery {
+    color: white;
+    position: relative;
+    left: 120px;
+    top: 60px;
+}
+
+.back {
+    width: 10%;
+    position:fixed;
+    left: 115px;
+    top: 723px;
+}

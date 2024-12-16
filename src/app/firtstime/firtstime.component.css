@@ -1,0 +1,41 @@
+:host {
+    color: white;
+}
+
+h1 {
+    color: white;
+    size: 0cap;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+
+.image{
+    width: 70%;
+    position:relative;
+    top: 60px;
+    left: 65px;
+}
+
+.info  {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.Continue {
+    color: white;
+    background-color: #0595A2;
+    border: 0;
+    text-align: center;
+    width: 28%;
+    height: 30px;
+    position: absolute;
+    left: 155px;
+    top: 710px;
+    font-size: 105%;
+    border-radius: 10px ;
+}

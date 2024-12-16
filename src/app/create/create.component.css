@@ -1,0 +1,51 @@
+.close {
+    display: flex;
+    justify-content: end;
+    position: relative;
+    top: 22px;
+    right: 10px;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    position: relative;
+    top: 95px;
+    font-size: 250%;
+}
+
+
+
+.all {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    top: 80px;  
+    left: 65px;
+    color: white;
+    width: 70%;
+}
+
+
+.form_input, .form_input2, .form_input3, .form_input4, .form_input5 {
+    background-color: white;
+    height: 35px;
+    border-radius: 10px;
+
+}
+
+
+.continue {
+    color: white;
+    background-color: #0595A2;
+    border: 0;
+    text-align: center;
+    width: 28%;
+    height: 30px;
+    position: absolute;
+    left: 242px;
+    top: 780px;
+    font-size: 105%;
+    border-radius: 10px ;
+}
